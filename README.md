@@ -1,0 +1,1 @@
+My personal contributions to the project are Stages III-VI in their entirety, covering the development of the Visio diagrams and models, the SQL database, the Access connection through ODBC, and the Bubble.io frontend.
